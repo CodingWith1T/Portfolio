@@ -57,7 +57,23 @@ export default function Skills() {
                             </div>
                             <div className='item'>
                                 <img src={meter1} alt="SKills" />
-                                <h5>Java EE</h5>
+                                <h5>Java Core</h5>
+                            </div>
+                            <div className='item'>
+                                <img src={meter1} alt="SKills" />
+                                <h5>Servelt</h5>
+                            </div>
+                            <div className='item'>
+                                <img src={meter1} alt="SKills" />
+                                <h5>JSP</h5>
+                            </div>
+                            <div className='item'>
+                                <img src={meter1} alt="SKills" />
+                                <h5>Hibernate</h5>
+                            </div>
+                            <div className='item'>
+                                <img src={meter1} alt="SKills" />
+                                <h5>Spring MVC</h5>
                             </div>
                             <div className='item'>
                                 <img src={meter3} alt="SKills" />
